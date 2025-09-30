@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "venue": "The Bruntsfield Hotel",
+    "scores": {
+      "taste": 0,
+      "texture": 0,
+      "effort": 0
+    },
+    "notes": ""
+  },
+  {
+    "id": 2,
+    "venue": "Cloisters/Heavenly Scran",
+    "scores": {
+      "taste": 0,
+      "texture": 0,
+      "effort": 0
+    },
+    "notes": ""
+  },
+  {
+    "id": 3,
+    "venue": "Black Ivy",
+    "scores": {
+      "taste": 0,
+      "texture": 0,
+      "effort": 0
+    },
+    "notes": ""
+  },
+  {
+    "id": 4,
+    "venue": "Fresh Mex",
+    "scores": {
+      "taste": 0,
+      "texture": 0,
+      "effort": 0
+    },
+    "notes": ""
+  },
+  {
+    "id": 5,
+    "venue": "Bennets Bar",
+    "scores": {
+      "taste": 0,
+      "texture": 0,
+      "effort": 0
+    },
+    "notes": ""
+  },
+  {
+    "id": 6,
+    "venue": "Home Bar",
+    "scores": {
+      "taste": 0,
+      "texture": 0,
+      "effort": 0
+    },
+    "notes": ""
+  },
+  {
+    "id": 7,
+    "venue": "Footlights Bar",
+    "scores": {
+      "taste": 0,
+      "texture": 0,
+      "effort": 0
+    },
+    "notes": ""
+  },
+  {
+    "id": 8,
+    "venue": "Hendersons",
+    "scores": {
+      "taste": 0,
+      "texture": 0,
+      "effort": 0
+    },
+    "notes": ""
+  },
+  {
+    "id": 9,
+    "venue": "The Blackbird",
+    "scores": {
+      "taste": 0,
+      "texture": 0,
+      "effort": 0
+    },
+    "notes": ""
+  },
+  {
+    "id": 10,
+    "venue": "Fountainbridge Fox",
+    "scores": {
+      "taste": 0,
+      "texture": 0,
+      "effort": 0
+    },
+    "notes": ""
+  }
+]
